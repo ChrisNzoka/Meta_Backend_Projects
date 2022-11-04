@@ -7,4 +7,4 @@ This repo contains all project solutions in the
 
 ## Projects
 
-1.[Creating an HTML Document](./Project_1/)
+1.[Creating an HTML Document](./Project_1/) 2. [Styling a page](./project_2/)
