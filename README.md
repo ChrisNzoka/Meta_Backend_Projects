@@ -10,3 +10,5 @@ This repo contains all project solutions in the
 1.[Creating an HTML Document](./Creating_an_HTML_Document/)
 
 2.[Styling a page](./Style_a_page/)
+
+3.[Create and style a webpage](./Create_and_style_a_webpage/)
